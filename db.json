@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "subject": "My first message",
+      "body": "Maecenas sed diam eget risus varius blandit sit amet non magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "subject": "My second message",
+      "body": "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."
+    },
+    {
+      "subject": "My third message",
+      "body": "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."
+    },
+    {
+      "subject": "My fourth message",
+      "body": "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."
+    },
+    {
+      "subject": "My fifth message",
+      "body": "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."
+    },
+    {
+      "subject": "My sixth message",
+      "body": "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum."
+    }
+  ]
+}
